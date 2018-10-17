@@ -1,41 +1,41 @@
 ## Web Dev
 
-- [ ] ### Python
+- [ ] Python
 
-  - [ ] ### Django
+  - [ ] Django
 
-  - [ ] ### Flask
+  - [ ] Flask
 
-    - [ ] ### APIS
+    - [ ] APIS
 
-    - [ ] ### MONGO
+    - [ ] MONGO
 
-    - [ ] ### REDIS
+    - [ ] REDIS
 
-- [ ] ### JS
+- [ ] JS
 
-  - [ ] ### Node.js with express.js
+  - [ ] Node.js with express.js
 
-    - [ ] ### APIS
+    - [ ] APIS
 
-    - [ ] ### MONGO
+    - [ ] MONGO
 
-    - [ ] ### REDIS
+    - [ ] REDIS
 
-  - [ ] ### JQUERY
+  - [ ] JQUERY
 
-    - [ ] ### APIs
+    - [ ] APIs
 
-    - [ ] ### Functions and listeners
+    - [ ] Functions and listeners
 
-  - [ ] ### Vue.js
+  - [ ] Vue.js
 
-  - [ ] ### Angular 6
+  - [ ] Angular 6
 
-    - [ ] ### apis
+    - [ ] apis
 
-    - [ ] ### components
+    - [ ] components
 
-    - [ ] ### data binding
+    - [ ] data binding
 
-  - [ ] ### Knockout.js
+  - [ ] Knockout.js
