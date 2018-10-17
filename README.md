@@ -1,6 +1,6 @@
 ## Web Dev
 
-- [ ] Python
+### Python
 
   - [ ] Django
 
@@ -12,7 +12,7 @@
 
     - [ ] REDIS
 
-- [ ] JS
+### JS
 
   - [ ] Node.js with express.js
 
