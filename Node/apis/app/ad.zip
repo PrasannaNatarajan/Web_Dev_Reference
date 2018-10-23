@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Hello There!!!</title>
+    </head>
+
+    <body>
+        <p> I am being rendered from node...</p>
+    </body>
+</html>
