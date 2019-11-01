@@ -10,8 +10,6 @@
 
     - [ ] MONGO
 
-    - [ ] REDIS
-
 ### JS
 
   - [ ] Node.js with express.js
@@ -38,4 +36,3 @@
 
     - [ ] data binding
 
-  - [ ] Knockout.js
